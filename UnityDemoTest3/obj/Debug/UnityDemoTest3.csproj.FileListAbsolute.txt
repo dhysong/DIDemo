@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoTest3\bin\Debug\UnityDemoTest3.dll
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoTest3\bin\Debug\UnityDemoTest3.pdb
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoTest3\bin\Debug\UnityDemoLibrary3.dll
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoTest3\bin\Debug\UnityDemoLibrary3.pdb
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoTest3\obj\Debug\UnityDemoTest3.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoTest3\obj\Debug\UnityDemoTest3.dll
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoTest3\obj\Debug\UnityDemoTest3.pdb
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoTest3\bin\Debug\Moq.dll
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoTest3\bin\Debug\Moq.xml

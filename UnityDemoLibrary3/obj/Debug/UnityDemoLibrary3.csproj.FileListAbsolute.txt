@@ -1,0 +1,5 @@
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoLibrary3\bin\Debug\UnityDemoLibrary3.dll
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoLibrary3\bin\Debug\UnityDemoLibrary3.pdb
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoLibrary3\obj\Debug\UnityDemoLibrary3.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoLibrary3\obj\Debug\UnityDemoLibrary3.dll
+C:\inetpub\wwwroot\UnityDemo3\UnityDemoLibrary3\obj\Debug\UnityDemoLibrary3.pdb
